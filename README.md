@@ -1,1 +1,2 @@
-# Kushaan-Algorithms
+# collisionAlgorithm
+Algorithm to detect collision between two objects
